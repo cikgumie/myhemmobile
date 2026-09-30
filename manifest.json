@@ -1,7 +1,7 @@
 {
-  "name": "SmartTracker",
-  "short_name": "SmartTracker",
-  "description": "Sistem Task Tracker Pendidikan",
+  "name": "Sistem Sekolah Pintar",
+  "short_name": "Sekolah Pintar",
+  "description": "Sistem Pengurusan Sekolah Pintar",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#0f172a",
